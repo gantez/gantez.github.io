@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>GANTEZ.net</title>
+		<link rel="stylesheet" type="text/css" href="/css/main.css">
+	</head>
+	<body>
+		<nav>
+    		<ul><center>
+        		<li><a href="/">Home</a></li>
+	        	<li><a href="/about">About</a></li>
+        		<li><a href="/music">Music</a></li>
+        		<li><a href="/tour">Tour</a></li>
+    		</center></ul>
+		</nav>
+		<div class="container">
+    		<div class="blurb">
+        		<h1>Welcome to GANTEZ.net!</h1>
+				<p>Here you will find everything you need <a href="/about">Learn about Frog Rock...</a></p>
+    		</div><!-- /.blurb -->
+		</div><!-- /.container -->
+		<footer>
+    		<ul><center>
+        		<li><a href="mailto:gantezmusic@gmail.com">email</a></li>
+        		<li><a href="https://facebook.com/gantezwarrior">facebook</a></li>
+        		<li><a href="https://instagram.com/gantez">instagram</a></li>
+		</center></ul>
+		</footer>
+	</body>
+</html>
